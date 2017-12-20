@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    font-family: avenir;
+    color: black;
+    font-size: 22px;
+  background-image: url("https://image.ibb.co/hWDhVR/imageVR.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-position: top;
+}
+
+h1 {
+    width: 960px;
+    margin: 0px auto 100px auto;
+    color: black;
+    font-family: avenir;
+    text-align: center;
+    font-size: 65px;
+}
+
+h2 {
+    color: black;
+    font-family: avenir;
+    font-size: 30px;
+}
+
+.article {
+    margin: 0 auto 50px auto;
+    width: 50%;
+}
+
+.article-end {
+    margin: 0 auto 120px auto;
+    width: 50%;
+}
+
+.logo {
+    display: block;
+    margin: 0px auto 0px auto;
+    text-align: center;
+}
+
+iframe{
+    display: block;
+    margin: 10px auto 20px auto;
+}
+
